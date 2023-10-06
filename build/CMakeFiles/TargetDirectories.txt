@@ -1,0 +1,3 @@
+P:/Projects/repositories/HTTPS copy/first-repo/build/CMakeFiles/hello_world.dir
+P:/Projects/repositories/HTTPS copy/first-repo/build/CMakeFiles/ALL_BUILD.dir
+P:/Projects/repositories/HTTPS copy/first-repo/build/CMakeFiles/ZERO_CHECK.dir

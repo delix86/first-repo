@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="P:\Projects\repositories\HTTPS copy\first-repo\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P:\Projects\repositories\HTTPS copy\first-repo\hello.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="P:\Projects\repositories\HTTPS copy\first-repo\hello.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="P:\Projects\repositories\HTTPS copy\first-repo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{96A73A2E-8C98-33C3-8C7D-BC862EF15368}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9832B49F-D159-3391-8EC6-2C33DC77509C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
