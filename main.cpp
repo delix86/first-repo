@@ -1,11 +1,10 @@
 #include <iostream>
 #include "hello.hpp"
-
 //using namespace std;
 
 int main(){
     using std::cout;
-    cout << "Hello world!" << std::endl;
+    std::cout << "Hello world!" << std::endl;
 
     sayHello();
 
