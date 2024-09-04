@@ -1,2 +1,3 @@
-test1
-test2
+first line added.
+
+This is a perfect line.
