@@ -1,1 +1,1 @@
-int MAINFUNC();
+int func()
